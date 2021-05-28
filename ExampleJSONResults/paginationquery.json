@@ -1,0 +1,3418 @@
+{
+    "info": {
+        "totalrecordsperquery": 20,
+        "totalrecords": 186077,
+        "pages": 9304,
+        "page": 1,
+        "next": "https://api.harvardartmuseums.org/object?size=20&page=2&apikey=4d8e7511-c083-423a-b0f1-24e2215c1e40&hasimage=1&person=any"
+    },
+    "records": [
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Eunice Williams in honor of Anne and the late Antoine de Margerie",
+            "accesslevel": 1,
+            "dateoflastpageview": "2021-04-14",
+            "classificationid": 21,
+            "division": "European and American Art",
+            "markscount": 6,
+            "publicationcount": 0,
+            "totaluniquepageviews": 14,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 4,
+            "rank": 139560,
+            "state": null,
+            "id": 356747,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-04-20",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 474703,
+                    "idsid": 431431786,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop CS6 (Macintosh);",
+                    "renditionnumber": "763740",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:763740",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/431431786",
+                    "height": 1914
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "128",
+                    "worktype": "drawing"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 16,
+            "accessionyear": 2016,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Drawings",
+            "relatedcount": 0,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:763740",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:56-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Black chalk on beige antique laid paper",
+            "lendingpermissionlevel": 0,
+            "title": "Artist Sketching amid Roman Ruins",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#c8af96",
+                    "spectrum": "#e66c64",
+                    "hue": "Brown",
+                    "percent": 0.8089880952380952,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.15648809523809523,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.03386904761904762,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.0006547619047619047,
+                    "css3": "#808080"
+                }
+            ],
+            "provenance": "Probably the collection of the artist. Private Collection, Paris; to Private Collection Boston, 2007 or 2008, gift; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "c. 1754 -1765",
+            "department": "Department of Drawings",
+            "dateend": 1759,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Paris",
+                    "gender": "male",
+                    "displaydate": "1733 - 1808",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Hubert Robert",
+                    "alphasort": "Robert, Hubert",
+                    "name": "Hubert Robert",
+                    "personid": 28325,
+                    "deathplace": "Paris",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356747",
+            "dateoffirstpageview": "2017-01-24",
+            "century": "18th century",
+            "objectnumber": "2016.237",
+            "labeltext": null,
+            "datebegin": 1749,
+            "culture": "French",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356747,
+            "techniqueid": null,
+            "dimensions": "22.6 × 30 cm (8 7/8 × 11 13/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356747",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of John Goelet",
+            "accesslevel": 1,
+            "dateoflastpageview": "2021-04-27",
+            "classificationid": 21,
+            "division": "European and American Art",
+            "markscount": 0,
+            "publicationcount": 1,
+            "totaluniquepageviews": 26,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 8,
+            "rank": 85983,
+            "state": null,
+            "id": 356871,
+            "verificationleveldescription": "Adequate. Object is adequately described but information may not be vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2015-07-08",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 456729,
+                    "idsid": 418278309,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Sinar Photography AG;Model:Sinar CMV/ Sinarback eVolution 86H;Orientation:1;Software:Adobe Photoshop CS6 (Macintosh);",
+                    "renditionnumber": "758992",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:758992",
+                    "alttext": null,
+                    "width": 1742,
+                    "publiccaption": "folio 3",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/418278309",
+                    "height": 2550
+                },
+                {
+                    "date": null,
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 12431,
+                    "idsid": 20679809,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Kodak Super XX",
+                    "renditionnumber": "42482",
+                    "displayorder": 2,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS42482_dynmc",
+                    "alttext": null,
+                    "width": 817,
+                    "publiccaption": "folio 3",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20679809",
+                    "height": 1024
+                },
+                {
+                    "date": "1989-01-01",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 21181,
+                    "idsid": 20683138,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Kodak EPY",
+                    "renditionnumber": "60132",
+                    "displayorder": 3,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:VRS60132_dynmc",
+                    "alttext": null,
+                    "width": 1791,
+                    "publiccaption": "folio 3",
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/20683138",
+                    "height": 2550
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "128",
+                    "worktype": "drawing"
+                },
+                {
+                    "worktypeid": "10",
+                    "worktype": "album page"
+                }
+            ],
+            "imagecount": 3,
+            "totalpageviews": 31,
+            "accessionyear": 1963,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Drawings",
+            "relatedcount": 1,
+            "verificationlevel": 2,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:758992",
+            "titlescount": 2,
+            "peoplecount": 2,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:56-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": null,
+            "edition": null,
+            "description": null,
+            "medium": "Watercolor and graphite on cream antique laid paper",
+            "lendingpermissionlevel": 0,
+            "title": "Elevation of a Fireplace Wall",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.2935947712418301,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.23797385620915032,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#e1c8af",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.20006535947712417,
+                    "css3": "#f5deb3"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.13111111111111112,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.07457516339869281,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#7d644b",
+                    "spectrum": "#b25593",
+                    "hue": "Yellow",
+                    "percent": 0.03019607843137255,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.02130718954248366,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.011176470588235295,
+                    "css3": "#2f4f4f"
+                }
+            ],
+            "provenance": "Achille Leclère and heirs; Mme Fassier, to; Claude Darton, Avignon. John Goelet, gift; to Fogg Art Museum, 1963",
+            "groupcount": 0,
+            "dated": "c. 1798-1804",
+            "department": "Department of Drawings",
+            "dateend": 1809,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": null,
+                    "gender": "unknown",
+                    "displaydate": "1764 - 1838",
+                    "prefix": "In the style of",
+                    "culture": "French",
+                    "displayname": "In the style of Charles Percier",
+                    "alphasort": "Percier, Charles",
+                    "name": "Charles Percier",
+                    "personid": 28033,
+                    "deathplace": null,
+                    "displayorder": 1
+                },
+                {
+                    "role": "Artist",
+                    "birthplace": null,
+                    "gender": "unknown",
+                    "displaydate": "1762 - 1853",
+                    "prefix": "In the style of",
+                    "culture": "French",
+                    "displayname": "In the style of Pierre-François-Léonard Fontaine",
+                    "alphasort": "Fontaine, Pierre-François-Léonard",
+                    "name": "Pierre-François-Léonard Fontaine",
+                    "personid": 20530,
+                    "deathplace": null,
+                    "displayorder": 2
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356871",
+            "dateoffirstpageview": "2017-03-31",
+            "century": "18th-19th century",
+            "objectnumber": "1963.147.3",
+            "labeltext": null,
+            "datebegin": 1793,
+            "culture": "French",
+            "exhibitioncount": 1,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356871,
+            "techniqueid": null,
+            "dimensions": "34.8 × 33.4 cm (13 11/16 × 13 1/8 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356871",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Jakob Rosenberg Fund",
+            "accesslevel": 1,
+            "dateoflastpageview": "2021-05-20",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 2,
+            "publicationcount": 0,
+            "totaluniquepageviews": 9,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 7,
+            "rank": 139571,
+            "state": null,
+            "id": 356874,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2018-02-26",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 484450,
+                    "idsid": 437454499,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop CS6 (Macintosh);",
+                    "renditionnumber": "766000",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:766000",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/437454499",
+                    "height": 1968
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 21,
+            "accessionyear": 2016,
+            "standardreferencenumber": "de Cayeux 36",
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 6,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:766000",
+            "titlescount": 2,
+            "peoplecount": 2,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:56-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "Title Page",
+            "accessionmethod": "Purchase",
+            "colors": [
+                {
+                    "color": "#e1c8c8",
+                    "spectrum": "#c15689",
+                    "hue": "Orange",
+                    "percent": 0.6628405797101449,
+                    "css3": "#d8bfd8"
+                },
+                {
+                    "color": "#969696",
+                    "spectrum": "#8761aa",
+                    "hue": "Grey",
+                    "percent": 0.13397101449275362,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.08411594202898551,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.04272463768115942,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.035072463768115944,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.034376811594202895,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.006898550724637681,
+                    "css3": "#2f4f4f"
+                }
+            ],
+            "provenance": "[Paris Art Trade, 2016]; sold; to [James Bergquist, Newton Centre, MA], sold; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "1765",
+            "department": "Department of Prints",
+            "dateend": 1765,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Paris",
+                    "gender": "male",
+                    "displaydate": "1727 - 1791",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Jean-Claude Richard, Abbé de Saint-Non",
+                    "alphasort": "Saint-Non, Jean-Claude Richard, Abbé de",
+                    "name": "Jean-Claude Richard, Abbé de Saint-Non",
+                    "personid": 28464,
+                    "deathplace": "Paris",
+                    "displayorder": 1
+                },
+                {
+                    "role": "Artist after",
+                    "birthplace": "Paris",
+                    "gender": "male",
+                    "displaydate": "1733 - 1808",
+                    "prefix": "After",
+                    "culture": "French",
+                    "displayname": "After Hubert Robert",
+                    "alphasort": "Robert, Hubert",
+                    "name": "Hubert Robert",
+                    "personid": 28325,
+                    "deathplace": "Paris",
+                    "displayorder": 2
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356874",
+            "dateoffirstpageview": "2019-06-01",
+            "century": "18th century",
+            "objectnumber": "2016.247.1",
+            "labeltext": null,
+            "datebegin": 1765,
+            "culture": "French",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356874,
+            "techniqueid": 116,
+            "dimensions": "image: 13.1 × 19.1 cm (5 3/16 × 7 1/2 in.)\r\nplate: 15.3 × 20.9 cm (6 × 8 1/4 in.)\r\nsheet: 27 × 35.2 cm (10 5/8 × 13 7/8 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356874",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Jakob Rosenberg Fund",
+            "accesslevel": 1,
+            "dateoflastpageview": "2020-01-16",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 4,
+            "publicationcount": 0,
+            "totaluniquepageviews": 6,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 7,
+            "rank": 139572,
+            "state": null,
+            "id": 356875,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2018-02-26",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 484451,
+                    "idsid": 437454513,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop CS6 (Macintosh);",
+                    "renditionnumber": "766001",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:766001",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/437454513",
+                    "height": 2168
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 10,
+            "accessionyear": 2016,
+            "standardreferencenumber": "de Cayeux 37",
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 6,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:766001",
+            "titlescount": 3,
+            "peoplecount": 2,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:56-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "View of the Gardens at Villa Mattei in Rome in 1761",
+            "accessionmethod": "Purchase",
+            "colors": [
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.6874015748031496,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.10325459317585302,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#969696",
+                    "spectrum": "#8761aa",
+                    "hue": "Grey",
+                    "percent": 0.10020997375328083,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.045196850393700784,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.03711286089238845,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.024304461942257216,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.0025196850393700786,
+                    "css3": "#2f4f4f"
+                }
+            ],
+            "provenance": "[Paris Art Trade, 2016]; sold; to [James Bergquist, Newton Centre, MA], sold; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "1765",
+            "department": "Department of Prints",
+            "dateend": 1765,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Paris",
+                    "gender": "male",
+                    "displaydate": "1727 - 1791",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Jean-Claude Richard, Abbé de Saint-Non",
+                    "alphasort": "Saint-Non, Jean-Claude Richard, Abbé de",
+                    "name": "Jean-Claude Richard, Abbé de Saint-Non",
+                    "personid": 28464,
+                    "deathplace": "Paris",
+                    "displayorder": 1
+                },
+                {
+                    "role": "Artist after",
+                    "birthplace": "Paris",
+                    "gender": "male",
+                    "displaydate": "1733 - 1808",
+                    "prefix": "After",
+                    "culture": "French",
+                    "displayname": "After Hubert Robert",
+                    "alphasort": "Robert, Hubert",
+                    "name": "Hubert Robert",
+                    "personid": 28325,
+                    "deathplace": "Paris",
+                    "displayorder": 2
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356875",
+            "dateoffirstpageview": "2018-10-24",
+            "century": "18th century",
+            "objectnumber": "2016.247.2",
+            "labeltext": null,
+            "datebegin": 1765,
+            "culture": "French",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356875,
+            "techniqueid": 116,
+            "dimensions": "image: 13.6 × 19.9 cm (5 3/8 × 7 13/16 in.)\r\nplate: 15.3 × 20.9 cm (6 × 8 1/4 in.)\r\nsheet: 26.8 × 35.3 cm (10 9/16 × 13 7/8 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356875",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Rachel and Judith Siporin in memory of their parents, Mitchell and Miriam Siporin",
+            "accesslevel": 1,
+            "dateoflastpageview": "2020-05-19",
+            "classificationid": 23,
+            "division": "Modern and Contemporary Art",
+            "markscount": 2,
+            "publicationcount": 0,
+            "totaluniquepageviews": 4,
+            "contact": "am_moderncontemporary@harvard.edu",
+            "colorcount": 8,
+            "rank": 139700,
+            "state": null,
+            "id": 356898,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-10-10",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 480897,
+                    "idsid": 435536483,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop CS6 (Macintosh);",
+                    "renditionnumber": "764698",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:764698",
+                    "alttext": null,
+                    "width": 1684,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/435536483",
+                    "height": 2550
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 4,
+            "accessionyear": 2016,
+            "standardreferencenumber": null,
+            "signed": "l.r., in graphite: Mitchell Siporin",
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:764698",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:56-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "In the Studio",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1e1e1",
+                    "spectrum": "#955ba5",
+                    "hue": "Grey",
+                    "percent": 0.6468013468013468,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#969696",
+                    "spectrum": "#8761aa",
+                    "hue": "Grey",
+                    "percent": 0.1377104377104377,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.09696969696969697,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.05811447811447811,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.03387205387205387,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.02148148148148148,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.004915824915824916,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#191919",
+                    "spectrum": "#1eb264",
+                    "hue": "Grey",
+                    "percent": 0.00013468013468013467,
+                    "css3": "#000000"
+                }
+            ],
+            "provenance": "Judith Siporin and Rachel Siporin, gift; to the Harvard Art Museums, 2016.",
+            "groupcount": 0,
+            "dated": "c. 1958-1960",
+            "department": "Department of Prints",
+            "dateend": 1963,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "New York, New York",
+                    "gender": "male",
+                    "displaydate": "1910 - 1976",
+                    "prefix": null,
+                    "culture": "American",
+                    "displayname": "Mitchell Siporin",
+                    "alphasort": "Siporin, Mitchell",
+                    "name": "Mitchell Siporin",
+                    "personid": 28730,
+                    "deathplace": "Newton, Massachusetts",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356898",
+            "dateoffirstpageview": "2017-07-08",
+            "century": "20th century",
+            "objectnumber": "2016.308",
+            "labeltext": null,
+            "datebegin": 1953,
+            "culture": "American",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356898,
+            "techniqueid": 116,
+            "dimensions": "image: 35 × 24.8 cm (13 3/4 × 9 3/4 in.)\r\nsheet: 50.5 × 33.2 cm (19 7/8 × 13 1/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356898",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Acquisition Fund for Prints",
+            "accesslevel": 1,
+            "dateoflastpageview": "2021-02-15",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 1,
+            "publicationcount": 0,
+            "totaluniquepageviews": 11,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 5,
+            "rank": 139600,
+            "state": null,
+            "id": 356900,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-12-13",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 482730,
+                    "idsid": 436692082,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop CS6 (Macintosh);",
+                    "renditionnumber": "765425",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:765425",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/436692082",
+                    "height": 2076
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 11,
+            "accessionyear": 2016,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 2,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:765425",
+            "titlescount": 3,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:56-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "Tarpeia is Crushed by the Shields of the Sabines, plate 23",
+            "accessionmethod": "Purchase",
+            "colors": [
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.5184699453551913,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.1548087431693989,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.1325136612021858,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#967d7d",
+                    "spectrum": "#955ba5",
+                    "hue": "Brown",
+                    "percent": 0.1125136612021858,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.08169398907103825,
+                    "css3": "#a9a9a9"
+                }
+            ],
+            "provenance": "Prince Liechtenstein, Vienna. [James Bergquist, Newton Center, MA], sold; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "c. 1575",
+            "department": "Department of Prints",
+            "dateend": 1580,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Verona, Italy",
+                    "gender": "male",
+                    "displaydate": "c. 1524 - 1587",
+                    "prefix": null,
+                    "culture": "Italian",
+                    "displayname": "Giovanni Battista Fontana",
+                    "alphasort": "Fontana, Giovanni Battista",
+                    "name": "Giovanni Battista Fontana",
+                    "personid": 32028,
+                    "deathplace": "Innsbruck, Austria",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356900",
+            "dateoffirstpageview": "2018-10-28",
+            "century": "16th century",
+            "objectnumber": "2016.248.23",
+            "labeltext": null,
+            "datebegin": 1570,
+            "culture": "Italian",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356900,
+            "techniqueid": 116,
+            "dimensions": "13.2 × 17.4 cm (5 3/16 × 6 7/8 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356900",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Acquisition Fund for Prints",
+            "accesslevel": 1,
+            "dateoflastpageview": "2021-03-08",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 1,
+            "publicationcount": 0,
+            "totaluniquepageviews": 28,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 6,
+            "rank": 139584,
+            "state": null,
+            "id": 356904,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-12-12",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 482724,
+                    "idsid": 436692062,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop CS6 (Macintosh);",
+                    "renditionnumber": "765419",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:765419",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/436692062",
+                    "height": 1975
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 34,
+            "accessionyear": 2016,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 2,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:765419",
+            "titlescount": 3,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:56-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "Romulus and Remus Resort to Divination to Determine the Site of Their New City, plate 7",
+            "accessionmethod": "Purchase",
+            "colors": [
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.2725287356321839,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.17793103448275863,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.15557471264367817,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.1511494252873563,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.14982758620689654,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.09298850574712644,
+                    "css3": "#696969"
+                }
+            ],
+            "provenance": "Prince Liechtenstein, Vienna. [James Bergquist, Newton Center, MA], sold; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "c. 1575",
+            "department": "Department of Prints",
+            "dateend": 1580,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Verona, Italy",
+                    "gender": "male",
+                    "displaydate": "c. 1524 - 1587",
+                    "prefix": null,
+                    "culture": "Italian",
+                    "displayname": "Giovanni Battista Fontana",
+                    "alphasort": "Fontana, Giovanni Battista",
+                    "name": "Giovanni Battista Fontana",
+                    "personid": 32028,
+                    "deathplace": "Innsbruck, Austria",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356904",
+            "dateoffirstpageview": "2017-10-18",
+            "century": "16th century",
+            "objectnumber": "2016.248.7",
+            "labeltext": null,
+            "datebegin": 1570,
+            "culture": "Italian",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356904,
+            "techniqueid": 116,
+            "dimensions": "13.3 × 17.2 cm (5 1/4 × 6 3/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356904",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Acquisition Fund for Prints",
+            "accesslevel": 1,
+            "dateoflastpageview": "2019-02-03",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 1,
+            "publicationcount": 0,
+            "totaluniquepageviews": 3,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 6,
+            "rank": 139587,
+            "state": null,
+            "id": 356907,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-12-13",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 482736,
+                    "idsid": 436692106,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop CS6 (Macintosh);",
+                    "renditionnumber": "765431",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:765431",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/436692106",
+                    "height": 1999
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 3,
+            "accessionyear": 2016,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 2,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:765431",
+            "titlescount": 3,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:56-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "Romulus Offers a Sacrifice to Hercules, plate 10",
+            "accessionmethod": "Purchase",
+            "colors": [
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.22672364672364673,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.21817663817663818,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.19891737891737893,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.1492877492877493,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.13367521367521368,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.07321937321937322,
+                    "css3": "#c0c0c0"
+                }
+            ],
+            "provenance": "Prince Liechtenstein, Vienna. [James Bergquist, Newton Center, MA], sold; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "c. 1575",
+            "department": "Department of Prints",
+            "dateend": 1580,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Verona, Italy",
+                    "gender": "male",
+                    "displaydate": "c. 1524 - 1587",
+                    "prefix": null,
+                    "culture": "Italian",
+                    "displayname": "Giovanni Battista Fontana",
+                    "alphasort": "Fontana, Giovanni Battista",
+                    "name": "Giovanni Battista Fontana",
+                    "personid": 32028,
+                    "deathplace": "Innsbruck, Austria",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356907",
+            "dateoffirstpageview": "2018-04-20",
+            "century": "16th century",
+            "objectnumber": "2016.248.10",
+            "labeltext": null,
+            "datebegin": 1570,
+            "culture": "Italian",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356907,
+            "techniqueid": 116,
+            "dimensions": "13.4 × 17.2 cm (5 1/4 × 6 3/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356907",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Acquisition Fund for Prints",
+            "accesslevel": 1,
+            "dateoflastpageview": "2020-04-17",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 1,
+            "publicationcount": 0,
+            "totaluniquepageviews": 2,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 6,
+            "rank": 139595,
+            "state": null,
+            "id": 356915,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-12-13",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 482735,
+                    "idsid": 436692098,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop CS6 (Macintosh);",
+                    "renditionnumber": "765430",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:765430",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/436692098",
+                    "height": 1990
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 2,
+            "accessionyear": 2016,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 2,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:765430",
+            "titlescount": 3,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:57-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "The Romans Conquer Crustumerium, plate 18",
+            "accessionmethod": "Purchase",
+            "colors": [
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.3210826210826211,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.19641025641025642,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.17225071225071226,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.13635327635327635,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.08752136752136752,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.08638176638176638,
+                    "css3": "#a9a9a9"
+                }
+            ],
+            "provenance": "Prince Liechtenstein, Vienna. [James Bergquist, Newton Center, MA], sold; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "c. 1575",
+            "department": "Department of Prints",
+            "dateend": 1580,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Verona, Italy",
+                    "gender": "male",
+                    "displaydate": "c. 1524 - 1587",
+                    "prefix": null,
+                    "culture": "Italian",
+                    "displayname": "Giovanni Battista Fontana",
+                    "alphasort": "Fontana, Giovanni Battista",
+                    "name": "Giovanni Battista Fontana",
+                    "personid": 32028,
+                    "deathplace": "Innsbruck, Austria",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356915",
+            "dateoffirstpageview": "2019-11-20",
+            "century": "16th century",
+            "objectnumber": "2016.248.18",
+            "labeltext": null,
+            "datebegin": 1570,
+            "culture": "Italian",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356915,
+            "techniqueid": 116,
+            "dimensions": "13.3 × 17.1 cm (5 1/4 × 6 3/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356915",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Acquisition Fund for Prints",
+            "accesslevel": 1,
+            "dateoflastpageview": "2021-01-30",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 2,
+            "publicationcount": 0,
+            "totaluniquepageviews": 20,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 5,
+            "rank": 139579,
+            "state": null,
+            "id": 356919,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-12-12",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 482714,
+                    "idsid": 436691990,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop CS6 (Macintosh);",
+                    "renditionnumber": "765409",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:765409",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/436691990",
+                    "height": 2045
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 25,
+            "accessionyear": 2016,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 2,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:765409",
+            "titlescount": 3,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:57-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "Romulus and Remus Are Cast into the Tiber, plate 2",
+            "accessionmethod": "Purchase",
+            "colors": [
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.21872222222222223,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.21388888888888888,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.19527777777777777,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.1938888888888889,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.17822222222222223,
+                    "css3": "#696969"
+                }
+            ],
+            "provenance": "Prince Liechtenstein, Vienna. [James Bergquist, Newton Center, MA], sold; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "c. 1575",
+            "department": "Department of Prints",
+            "dateend": 1580,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Verona, Italy",
+                    "gender": "male",
+                    "displaydate": "c. 1524 - 1587",
+                    "prefix": null,
+                    "culture": "Italian",
+                    "displayname": "Giovanni Battista Fontana",
+                    "alphasort": "Fontana, Giovanni Battista",
+                    "name": "Giovanni Battista Fontana",
+                    "personid": 32028,
+                    "deathplace": "Innsbruck, Austria",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356919",
+            "dateoffirstpageview": "2017-11-12",
+            "century": "16th century",
+            "objectnumber": "2016.248.2",
+            "labeltext": null,
+            "datebegin": 1570,
+            "culture": "Italian",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356919,
+            "techniqueid": 116,
+            "dimensions": "13.6 × 17 cm (5 3/8 × 6 11/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356919",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Acquisition Fund for Prints",
+            "accesslevel": 1,
+            "dateoflastpageview": "2021-05-21",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 2,
+            "publicationcount": 0,
+            "totaluniquepageviews": 6,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 6,
+            "rank": 139601,
+            "state": null,
+            "id": 356925,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-12-13",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 482720,
+                    "idsid": 436692042,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop CS6 (Macintosh);",
+                    "renditionnumber": "765415",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:765415",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/436692042",
+                    "height": 2023
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 7,
+            "accessionyear": 2016,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 2,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:765415",
+            "titlescount": 3,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:57-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "King Tatius is Killed and Romulus Becomes Ruler of the Sabines, plate 24",
+            "accessionmethod": "Purchase",
+            "colors": [
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.23669467787114845,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.19826330532212885,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.18834733893557423,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.1769187675070028,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#967d7d",
+                    "spectrum": "#955ba5",
+                    "hue": "Brown",
+                    "percent": 0.1523809523809524,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.04739495798319328,
+                    "css3": "#c0c0c0"
+                }
+            ],
+            "provenance": "Prince Liechtenstein, Vienna. [James Bergquist, Newton Center, MA], sold; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "c. 1575",
+            "department": "Department of Prints",
+            "dateend": 1580,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Verona, Italy",
+                    "gender": "male",
+                    "displaydate": "c. 1524 - 1587",
+                    "prefix": null,
+                    "culture": "Italian",
+                    "displayname": "Giovanni Battista Fontana",
+                    "alphasort": "Fontana, Giovanni Battista",
+                    "name": "Giovanni Battista Fontana",
+                    "personid": 32028,
+                    "deathplace": "Innsbruck, Austria",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356925",
+            "dateoffirstpageview": "2020-11-19",
+            "century": "16th century",
+            "objectnumber": "2016.248.24",
+            "labeltext": null,
+            "datebegin": 1570,
+            "culture": "Italian",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356925,
+            "techniqueid": 116,
+            "dimensions": "13.5 × 17.2 cm (5 5/16 × 6 3/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356925",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Peter G. Neumann",
+            "accesslevel": 1,
+            "dateoflastpageview": "2017-04-05",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 4,
+            "publicationcount": 0,
+            "totaluniquepageviews": 0,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 7,
+            "rank": 139800,
+            "state": null,
+            "id": 356947,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-02-08",
+                    "copyright": "President and Fellows of Harvard College.",
+                    "imageid": 472860,
+                    "idsid": 427350754,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "LEG262601",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG262601",
+                    "alttext": null,
+                    "width": 2546,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/427350754",
+                    "height": 1902
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 0,
+            "accessionyear": 2016,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG262601",
+            "titlescount": 1,
+            "peoplecount": 2,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:57-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "Napoleonic Rebuses",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1c896",
+                    "spectrum": "#ed765a",
+                    "hue": "Yellow",
+                    "percent": 0.6346428571428572,
+                    "css3": "#deb887"
+                },
+                {
+                    "color": "#c8af7d",
+                    "spectrum": "#e9715f",
+                    "hue": "Brown",
+                    "percent": 0.19702380952380952,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#af9664",
+                    "spectrum": "#e9715f",
+                    "hue": "Yellow",
+                    "percent": 0.09875,
+                    "css3": "#bdb76b"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.05964285714285714,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#7d644b",
+                    "spectrum": "#b25593",
+                    "hue": "Yellow",
+                    "percent": 0.007142857142857143,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#644b32",
+                    "spectrum": "#59ba4a",
+                    "hue": "Brown",
+                    "percent": 0.0027380952380952383,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#323219",
+                    "spectrum": "#3db657",
+                    "hue": "Brown",
+                    "percent": 0.000059523809523809524,
+                    "css3": "#2f4f4f"
+                }
+            ],
+            "provenance": "Jsrael Ber Neumann, Berlin, Munich, and New York, by descent; to Elsa Schmid Neumann, his wife, 1961, by descent; to Peter G. Neumann, their son, Palo Alto, gift; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "c. 1804-1815",
+            "department": "Department of Prints",
+            "dateend": 1815,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": null,
+                    "gender": "unknown",
+                    "displaydate": null,
+                    "prefix": null,
+                    "culture": null,
+                    "displayname": "Unidentified Artist",
+                    "alphasort": "Unidentified Artist",
+                    "name": "Unidentified Artist",
+                    "personid": 34147,
+                    "deathplace": null,
+                    "displayorder": 1
+                },
+                {
+                    "role": "Publisher",
+                    "birthplace": null,
+                    "gender": "unknown",
+                    "displaydate": null,
+                    "prefix": "Published by",
+                    "culture": "French",
+                    "displayname": "Published by E. Jourdain",
+                    "alphasort": "Jourdain, E.",
+                    "name": "E. Jourdain",
+                    "personid": 63570,
+                    "deathplace": null,
+                    "displayorder": 2
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356947",
+            "dateoffirstpageview": "2017-04-05",
+            "century": "19th century",
+            "objectnumber": "2016.378",
+            "labeltext": null,
+            "datebegin": 1804,
+            "culture": "French",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356947,
+            "techniqueid": 116,
+            "dimensions": "plate: 29 × 39 cm (11 7/16 × 15 3/8 in.)\r\nsheet: 31 × 43.3 cm (12 3/16 × 17 1/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356947",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Peter G. Neumann",
+            "accesslevel": 1,
+            "dateoflastpageview": "2020-12-03",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 0,
+            "publicationcount": 0,
+            "totaluniquepageviews": 2,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 8,
+            "rank": 139742,
+            "state": null,
+            "id": 356949,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-02-08",
+                    "copyright": "President and Fellows of Harvard College.",
+                    "imageid": 472808,
+                    "idsid": 427350546,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "LEG262549",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG262549",
+                    "alttext": null,
+                    "width": 1861,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/427350546",
+                    "height": 2550
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "280",
+                    "worktype": "portfolio"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 2,
+            "accessionyear": 2016,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 6,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG262549",
+            "titlescount": 1,
+            "peoplecount": 3,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:57-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching and roulette",
+            "edition": null,
+            "description": "Portfolio containing one title page / coversheet, one folded sheet of text, and four plates",
+            "medium": "Etching and roulette with hand-coloring",
+            "lendingpermissionlevel": 0,
+            "title": "Deutsche Trachten, volume 1",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#c8af96",
+                    "spectrum": "#e66c64",
+                    "hue": "Brown",
+                    "percent": 0.43700305810397555,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#e1c896",
+                    "spectrum": "#ed765a",
+                    "hue": "Yellow",
+                    "percent": 0.1529051987767584,
+                    "css3": "#deb887"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.13553516819571865,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#7d644b",
+                    "spectrum": "#b25593",
+                    "hue": "Yellow",
+                    "percent": 0.09467889908256881,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.09241590214067279,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.049663608562691135,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.019877675840978593,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.017920489296636085,
+                    "css3": "#dcdcdc"
+                }
+            ],
+            "provenance": "Jsrael Ber Neumann, Berlin, Munich, and New York, by descent; to Elsa Schmid Neumann, his wife, 1961, by descent; to Peter G. Neumann, their son, Palo Alto, gift; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "1815",
+            "department": "Department of Prints",
+            "dateend": 1815,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": null,
+                    "gender": "unknown",
+                    "displaydate": null,
+                    "prefix": null,
+                    "culture": null,
+                    "displayname": "F. W. Meyer",
+                    "alphasort": "Meyer, F. W.",
+                    "name": "F. W. Meyer",
+                    "personid": 63572,
+                    "deathplace": null,
+                    "displayorder": 1
+                },
+                {
+                    "role": "Author",
+                    "birthplace": "Rügen, Germany",
+                    "gender": "unknown",
+                    "displaydate": "1769 - 1860",
+                    "prefix": "Author:",
+                    "culture": "German",
+                    "displayname": "Author: Ernst Moritz Arndt",
+                    "alphasort": "Arndt, Ernst Moritz",
+                    "name": "Ernst Moritz Arndt",
+                    "personid": 64339,
+                    "deathplace": "Bonn, Germany",
+                    "displayorder": 2
+                },
+                {
+                    "role": "Publisher",
+                    "birthplace": "Darmstadt, Germany",
+                    "gender": "unknown",
+                    "displaydate": "1773 - 1832",
+                    "prefix": "Published by",
+                    "culture": "German",
+                    "displayname": "Published by Ludwig Wilhelm Wittich",
+                    "alphasort": "Wittich, Ludwig Wilhelm",
+                    "name": "Ludwig Wilhelm Wittich",
+                    "personid": 63573,
+                    "deathplace": "Berlin, Germany",
+                    "displayorder": 3
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356949",
+            "dateoffirstpageview": "2020-04-13",
+            "century": "19th century",
+            "objectnumber": "2016.337",
+            "labeltext": null,
+            "datebegin": 1815,
+            "culture": "German",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356949,
+            "techniqueid": 2940,
+            "dimensions": "34.3 × 24 cm (13 1/2 × 9 7/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356949",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Peter G. Neumann",
+            "accesslevel": 1,
+            "dateoflastpageview": "2021-01-20",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 3,
+            "publicationcount": 0,
+            "totaluniquepageviews": 2,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 7,
+            "rank": 139725,
+            "state": null,
+            "id": 356951,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-02-08",
+                    "copyright": "President and Fellows of Harvard College.",
+                    "imageid": 472792,
+                    "idsid": 427350482,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "LEG262533",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG262533",
+                    "alttext": null,
+                    "width": 1856,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/427350482",
+                    "height": 2316
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 2,
+            "accessionyear": 2016,
+            "standardreferencenumber": "Reid 508, Cohn 1245, BM Satires 12699",
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG262533",
+            "titlescount": 1,
+            "peoplecount": 2,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:57-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": "Etching with letterpress",
+            "lendingpermissionlevel": 0,
+            "title": "Irish Hospitality",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#c8af7d",
+                    "spectrum": "#e9715f",
+                    "hue": "Brown",
+                    "percent": 0.4062777777777778,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.1797777777777778,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#e1c896",
+                    "spectrum": "#ed765a",
+                    "hue": "Yellow",
+                    "percent": 0.13777777777777778,
+                    "css3": "#deb887"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.11694444444444445,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#7d644b",
+                    "spectrum": "#b25593",
+                    "hue": "Yellow",
+                    "percent": 0.09638888888888889,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#e1e1af",
+                    "spectrum": "#b0d136",
+                    "hue": "Green",
+                    "percent": 0.04505555555555556,
+                    "css3": "#eee8aa"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.017777777777777778,
+                    "css3": "#556b2f"
+                }
+            ],
+            "provenance": "Jsrael Ber Neumann, Berlin, Munich, and New York, by descent; to Elsa Schmid Neumann, his wife, 1961, by descent; to Peter G. Neumann, their son, Palo Alto, gift; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "October 20, 1815",
+            "department": "Department of Prints",
+            "dateend": 1815,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "London, England",
+                    "gender": "male",
+                    "displaydate": "1792 - 1878",
+                    "prefix": null,
+                    "culture": "British",
+                    "displayname": "George Cruikshank",
+                    "alphasort": "Cruikshank, George",
+                    "name": "George Cruikshank",
+                    "personid": 34173,
+                    "deathplace": "London, England",
+                    "displayorder": 1
+                },
+                {
+                    "role": "Publisher",
+                    "birthplace": null,
+                    "gender": "unknown",
+                    "displaydate": null,
+                    "prefix": "Published by",
+                    "culture": null,
+                    "displayname": "Published by J.  Whittle and R.H. Laurie",
+                    "alphasort": "J.  Whittle and R.H. Laurie",
+                    "name": "J.  Whittle and R.H. Laurie",
+                    "personid": 64619,
+                    "deathplace": null,
+                    "displayorder": 2
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356951",
+            "dateoffirstpageview": "2020-05-27",
+            "century": "19th century",
+            "objectnumber": "2016.320",
+            "labeltext": null,
+            "datebegin": 1815,
+            "culture": "British",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356951,
+            "techniqueid": 116,
+            "dimensions": "image: 14.4 × 20.8 cm (5 11/16 × 8 3/16 in.)\r\nsheet: 26.5 × 21.9 cm (10 7/16 × 8 5/8 in.)\r\nmount: 36.3 × 24.8 cm (14 5/16 × 9 3/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356951",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Peter G. Neumann",
+            "accesslevel": 1,
+            "dateoflastpageview": "2021-05-09",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 8,
+            "publicationcount": 0,
+            "totaluniquepageviews": 6,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 10,
+            "rank": 139730,
+            "state": null,
+            "id": 356957,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-02-08",
+                    "copyright": "President and Fellows of Harvard College.",
+                    "imageid": 472797,
+                    "idsid": 427350502,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "LEG262538",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG262538",
+                    "alttext": null,
+                    "width": 2523,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/427350502",
+                    "height": 1867
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 6,
+            "accessionyear": 2016,
+            "standardreferencenumber": "BM Satires 13049; Reid 764; Cohn 898",
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG262538",
+            "titlescount": 1,
+            "peoplecount": 3,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:57-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": "Hand-colored etching",
+            "lendingpermissionlevel": 0,
+            "title": "The Art of Walking the Streets of London",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1c8af",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.28606606606606605,
+                    "css3": "#f5deb3"
+                },
+                {
+                    "color": "#c8af96",
+                    "spectrum": "#e66c64",
+                    "hue": "Brown",
+                    "percent": 0.16414414414414413,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#af967d",
+                    "spectrum": "#c25687",
+                    "hue": "Brown",
+                    "percent": 0.14882882882882884,
+                    "css3": "#bc8f8f"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.10216216216216216,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#7d644b",
+                    "spectrum": "#b25593",
+                    "hue": "Yellow",
+                    "percent": 0.0848048048048048,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#7d967d",
+                    "spectrum": "#7866ad",
+                    "hue": "Green",
+                    "percent": 0.0827027027027027,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.07675675675675675,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.02714714714714715,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#964b4b",
+                    "spectrum": "#c25687",
+                    "hue": "Red",
+                    "percent": 0.01981981981981982,
+                    "css3": "#a0522d"
+                },
+                {
+                    "color": "#c8af4b",
+                    "spectrum": "#b0d136",
+                    "hue": "Yellow",
+                    "percent": 0.006546546546546546,
+                    "css3": "#bdb76b"
+                }
+            ],
+            "provenance": "Jsrael Ber Neumann, Berlin, Munich, and New York, by descent; to Elsa Schmid Neumann, his wife, 1961, by descent; to Peter G. Neumann, their son, Palo Alto, gift; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "January 1, 1818",
+            "department": "Department of Prints",
+            "dateend": 1818,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "London, England",
+                    "gender": "male",
+                    "displaydate": "1792 - 1878",
+                    "prefix": null,
+                    "culture": "British",
+                    "displayname": "George Cruikshank",
+                    "alphasort": "Cruikshank, George",
+                    "name": "George Cruikshank",
+                    "personid": 34173,
+                    "deathplace": "London, England",
+                    "displayorder": 1
+                },
+                {
+                    "role": "Artist after",
+                    "birthplace": "Stanton Hall, England",
+                    "gender": "male",
+                    "displaydate": "1760 - 1809",
+                    "prefix": "After",
+                    "culture": "British",
+                    "displayname": "After George Moutard Woodward",
+                    "alphasort": "Woodward, George Moutard",
+                    "name": "George Moutard Woodward",
+                    "personid": 63558,
+                    "deathplace": "London, England",
+                    "displayorder": 2
+                },
+                {
+                    "role": "Publisher",
+                    "birthplace": "Wimbeldon",
+                    "gender": "male",
+                    "displaydate": "1776 - 1845",
+                    "prefix": "Published by",
+                    "culture": "British",
+                    "displayname": "Published by Thomas Tegg",
+                    "alphasort": "Tegg, Thomas",
+                    "name": "Thomas Tegg",
+                    "personid": 63560,
+                    "deathplace": "London",
+                    "displayorder": 3
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356957",
+            "dateoffirstpageview": "2017-07-18",
+            "century": "19th century",
+            "objectnumber": "2016.325",
+            "labeltext": null,
+            "datebegin": 1818,
+            "culture": "British",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356957,
+            "techniqueid": 116,
+            "dimensions": "sheet: 24.5 × 34.3 cm (9 5/8 × 13 1/2 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356957",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Peter G. Neumann",
+            "accesslevel": 1,
+            "dateoflastpageview": "2021-01-08",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 9,
+            "publicationcount": 0,
+            "totaluniquepageviews": 16,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 6,
+            "rank": 139734,
+            "state": null,
+            "id": 356960,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2019-12-02",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 503711,
+                    "idsid": 482025477,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop 21.0 (Macintosh);",
+                    "renditionnumber": "771628",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:771628",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/482025477",
+                    "height": 1806
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 20,
+            "accessionyear": 2016,
+            "standardreferencenumber": "BM Satires 9534",
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:771628",
+            "titlescount": 2,
+            "peoplecount": 3,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:57-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "Democratic Glory [left]; Democratic Consolations [right]",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.7494968553459119,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.08031446540880503,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.06547169811320755,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.054465408805031444,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.04616352201257862,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.004088050314465409,
+                    "css3": "#556b2f"
+                }
+            ],
+            "provenance": "Jsrael Ber Neumann, Berlin, Munich, and New York, by descent; to Elsa Schmid Neumann, his wife, 1961, by descent; to Peter G. Neumann, their son, Palo Alto, gift; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "1825",
+            "department": "Department of Prints",
+            "dateend": 1825,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": null,
+                    "gender": "male",
+                    "displaydate": "1757 - 1815",
+                    "prefix": null,
+                    "culture": "British",
+                    "displayname": "James Gillray",
+                    "alphasort": "Gillray, James",
+                    "name": "James Gillray",
+                    "personid": 32162,
+                    "deathplace": null,
+                    "displayorder": 1
+                },
+                {
+                    "role": "Publisher",
+                    "birthplace": null,
+                    "gender": "unknown",
+                    "displaydate": null,
+                    "prefix": "Published by",
+                    "culture": "British",
+                    "displayname": "Published by John Miller",
+                    "alphasort": "Miller, John",
+                    "name": "John Miller",
+                    "personid": 63948,
+                    "deathplace": null,
+                    "displayorder": 2
+                },
+                {
+                    "role": "Publisher",
+                    "birthplace": null,
+                    "gender": "unknown",
+                    "displaydate": null,
+                    "prefix": "Published by",
+                    "culture": null,
+                    "displayname": "Published by W. Blackwood",
+                    "alphasort": "Blackwood, W.",
+                    "name": "W. Blackwood",
+                    "personid": 64624,
+                    "deathplace": null,
+                    "displayorder": 3
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356960",
+            "dateoffirstpageview": "2018-03-31",
+            "century": "19th century",
+            "objectnumber": "2016.329",
+            "labeltext": null,
+            "datebegin": 1825,
+            "culture": "British",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356960,
+            "techniqueid": 116,
+            "dimensions": "plate: 22 × 28.7 cm (8 11/16 × 11 5/16 in.)\r\nsheet: 24.2 × 34.7 cm (9 1/2 × 13 11/16 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356960",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Peter G. Neumann",
+            "accesslevel": 1,
+            "dateoflastpageview": "2021-02-13",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 7,
+            "publicationcount": 0,
+            "totaluniquepageviews": 4,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 8,
+            "rank": 139753,
+            "state": null,
+            "id": 356968,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-02-08",
+                    "copyright": "President and Fellows of Harvard College.",
+                    "imageid": 472813,
+                    "idsid": 427350566,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "LEG262554",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG262554",
+                    "alttext": null,
+                    "width": 2508,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/427350566",
+                    "height": 2208
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 4,
+            "accessionyear": 2016,
+            "standardreferencenumber": null,
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 1,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG262554",
+            "titlescount": 2,
+            "peoplecount": 2,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:57-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "Tea",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.4344949494949495,
+                    "css3": "#c0c0c0"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.22090909090909092,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.1369191919191919,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.09828282828282828,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.05196969696969697,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.04666666666666667,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.00797979797979798,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#fae1e1",
+                    "spectrum": "#e76d63",
+                    "hue": "Red",
+                    "percent": 0.002777777777777778,
+                    "css3": "#ffe4e1"
+                }
+            ],
+            "provenance": "Jsrael Ber Neumann, Berlin, Munich, and New York, by descent; to Elsa Schmid Neumann, his wife, 1961, by descent; to Peter G. Neumann, their son, Palo Alto, gift; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "May 15, 1786",
+            "department": "Department of Prints",
+            "dateend": 1786,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "London, England",
+                    "gender": "male",
+                    "displaydate": "1756 - 1827",
+                    "prefix": null,
+                    "culture": "British",
+                    "displayname": "Thomas Rowlandson",
+                    "alphasort": "Rowlandson, Thomas",
+                    "name": "Thomas Rowlandson",
+                    "personid": 28397,
+                    "deathplace": "London, England",
+                    "displayorder": 1
+                },
+                {
+                    "role": "Publisher",
+                    "birthplace": null,
+                    "gender": "unknown",
+                    "displaydate": "active 1785 - 1797",
+                    "prefix": "Published by",
+                    "culture": "British",
+                    "displayname": "Published by Elizabeth Jackson",
+                    "alphasort": "Jackson, Elizabeth",
+                    "name": "Elizabeth Jackson",
+                    "personid": 63636,
+                    "deathplace": null,
+                    "displayorder": 2
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356968",
+            "dateoffirstpageview": "2019-06-12",
+            "century": "18th century",
+            "objectnumber": "2016.342",
+            "labeltext": null,
+            "datebegin": 1786,
+            "culture": "British",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356968,
+            "techniqueid": 116,
+            "dimensions": "plate: 26 × 28 cm (10 1/4 × 11 in.)\r\nsheet: 27.7 × 31.8 cm (10 7/8 × 12 1/2 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356968",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Peter G. Neumann",
+            "accesslevel": 1,
+            "dateoflastpageview": null,
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 4,
+            "publicationcount": 0,
+            "totaluniquepageviews": 0,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 10,
+            "rank": 139759,
+            "state": null,
+            "id": 356976,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2019-12-02",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 503826,
+                    "idsid": 482148506,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop 21.0 (Macintosh);",
+                    "renditionnumber": "771743",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:771743",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/482148506",
+                    "height": 1665
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 0,
+            "accessionyear": 2016,
+            "standardreferencenumber": "See BM Satires 12213-12227; Grego II 404",
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 0,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:771743",
+            "titlescount": 1,
+            "peoplecount": 2,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:57-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": null,
+            "medium": "Hand-colored etching",
+            "lendingpermissionlevel": 0,
+            "title": "A Friendly Visit",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#c8af7d",
+                    "spectrum": "#e9715f",
+                    "hue": "Brown",
+                    "percent": 0.3185567010309278,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#e1c8af",
+                    "spectrum": "#e9715f",
+                    "hue": "Orange",
+                    "percent": 0.24137457044673538,
+                    "css3": "#f5deb3"
+                },
+                {
+                    "color": "#7d644b",
+                    "spectrum": "#b25593",
+                    "hue": "Yellow",
+                    "percent": 0.18735395189003437,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#967d64",
+                    "spectrum": "#b65590",
+                    "hue": "Brown",
+                    "percent": 0.14054982817869416,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#4b4b32",
+                    "spectrum": "#4ab851",
+                    "hue": "Green",
+                    "percent": 0.08013745704467354,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.024948453608247424,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#326464",
+                    "spectrum": "#24b362",
+                    "hue": "Blue",
+                    "percent": 0.0026804123711340207,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#fafae1",
+                    "spectrum": "#ed765a",
+                    "hue": "Green",
+                    "percent": 0.002268041237113402,
+                    "css3": "#ffffe0"
+                },
+                {
+                    "color": "#4b7d7d",
+                    "spectrum": "#536fb5",
+                    "hue": "Green",
+                    "percent": 0.001718213058419244,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#7d3219",
+                    "spectrum": "#d0577c",
+                    "hue": "Orange",
+                    "percent": 0.0004123711340206186,
+                    "css3": "#8b4513"
+                }
+            ],
+            "provenance": "Jsrael Ber Neumann, Berlin, Munich, and New York, by descent; to Elsa Schmid Neumann, his wife, 1961, by descent; to Peter G. Neumann, their son, Palo Alto, gift; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "April 16, 1814",
+            "department": "Department of Prints",
+            "dateend": 1814,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "London, England",
+                    "gender": "male",
+                    "displaydate": "1756 - 1827",
+                    "prefix": null,
+                    "culture": "British",
+                    "displayname": "Thomas Rowlandson",
+                    "alphasort": "Rowlandson, Thomas",
+                    "name": "Thomas Rowlandson",
+                    "personid": 28397,
+                    "deathplace": "London, England",
+                    "displayorder": 1
+                },
+                {
+                    "role": "Publisher",
+                    "birthplace": "Wimbeldon",
+                    "gender": "male",
+                    "displaydate": "1776 - 1845",
+                    "prefix": "Published by",
+                    "culture": "British",
+                    "displayname": "Published by Thomas Tegg",
+                    "alphasort": "Tegg, Thomas",
+                    "name": "Thomas Tegg",
+                    "personid": 63560,
+                    "deathplace": "London",
+                    "displayorder": 2
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356976",
+            "dateoffirstpageview": null,
+            "century": "19th century",
+            "objectnumber": "2016.348",
+            "labeltext": null,
+            "datebegin": 1814,
+            "culture": "British",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356976,
+            "techniqueid": 116,
+            "dimensions": "image: 22.1 × 32.8 cm (8 11/16 × 12 15/16 in.)\r\nsheet: 25.5 × 39.4 cm (10 1/16 × 15 1/2 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356976",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Gift of Peter G. Neumann",
+            "accesslevel": 1,
+            "dateoflastpageview": "2021-02-02",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 3,
+            "publicationcount": 0,
+            "totaluniquepageviews": 8,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 10,
+            "rank": 139738,
+            "state": null,
+            "id": 356986,
+            "verificationleveldescription": "Best. Object is extensively researched, well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-02-08",
+                    "copyright": "President and Fellows of Harvard College.",
+                    "imageid": 472804,
+                    "idsid": 427350530,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": null,
+                    "renditionnumber": "LEG262545",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG262545",
+                    "alttext": null,
+                    "width": 2550,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/427350530",
+                    "height": 1921
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 9,
+            "accessionyear": 2016,
+            "standardreferencenumber": "BM Satires 7013",
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 2,
+            "verificationlevel": 4,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:LEG262545",
+            "titlescount": 1,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:57-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Etching",
+            "edition": null,
+            "description": "yellow border",
+            "medium": "Hand-colored etching",
+            "lendingpermissionlevel": 0,
+            "title": "The Injured Count. S-",
+            "accessionmethod": "Gift",
+            "colors": [
+                {
+                    "color": "#e1e1c8",
+                    "spectrum": "#e9715f",
+                    "hue": "Green",
+                    "percent": 0.20839285714285713,
+                    "css3": "#dcdcdc"
+                },
+                {
+                    "color": "#646464",
+                    "spectrum": "#7866ad",
+                    "hue": "Grey",
+                    "percent": 0.19541666666666666,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#7d7d64",
+                    "spectrum": "#6cbd45",
+                    "hue": "Yellow",
+                    "percent": 0.19041666666666668,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.10357142857142858,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#4b4b4b",
+                    "spectrum": "#3db657",
+                    "hue": "Grey",
+                    "percent": 0.06892857142857142,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#4b3232",
+                    "spectrum": "#4ab851",
+                    "hue": "Red",
+                    "percent": 0.06315476190476191,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.056845238095238095,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#c8c896",
+                    "spectrum": "#a9cf38",
+                    "hue": "Green",
+                    "percent": 0.05035714285714286,
+                    "css3": "#d2b48c"
+                },
+                {
+                    "color": "#644b32",
+                    "spectrum": "#59ba4a",
+                    "hue": "Brown",
+                    "percent": 0.035476190476190474,
+                    "css3": "#556b2f"
+                },
+                {
+                    "color": "#e1c87d",
+                    "spectrum": "#bdd430",
+                    "hue": "Yellow",
+                    "percent": 0.018333333333333333,
+                    "css3": "#deb887"
+                }
+            ],
+            "provenance": "Jsrael Ber Neumann, Berlin, Munich, and New York, by descent; to Elsa Schmid Neumann, his wife, 1961, by descent; to Peter G. Neumann, their son, Palo Alto, gift; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "1786",
+            "department": "Department of Prints",
+            "dateend": 1786,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": null,
+                    "gender": "male",
+                    "displaydate": "1757 - 1815",
+                    "prefix": null,
+                    "culture": "British",
+                    "displayname": "James Gillray",
+                    "alphasort": "Gillray, James",
+                    "name": "James Gillray",
+                    "personid": 32162,
+                    "deathplace": null,
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/356986",
+            "dateoffirstpageview": "2019-04-29",
+            "century": "18th century",
+            "objectnumber": "2016.333",
+            "labeltext": null,
+            "datebegin": 1786,
+            "culture": "British",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 356986,
+            "techniqueid": 116,
+            "dimensions": "plate: 27.8 × 39.5 cm (10 15/16 × 15 9/16 in.)\r\nsheet: 31.5 × 44.5 cm (12 3/8 × 17 1/2 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/356986",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        },
+        {
+            "copyright": null,
+            "contextualtextcount": 0,
+            "creditline": "Harvard Art Museums/Fogg Museum, Acquisition Fund for Prints",
+            "accesslevel": 1,
+            "dateoflastpageview": "2021-04-23",
+            "classificationid": 23,
+            "division": "European and American Art",
+            "markscount": 3,
+            "publicationcount": 0,
+            "totaluniquepageviews": 8,
+            "contact": "am_europeanamerican@harvard.edu",
+            "colorcount": 7,
+            "rank": 139618,
+            "state": "i/ii",
+            "id": 357008,
+            "verificationleveldescription": "Good. Object is well described and information is vetted",
+            "period": null,
+            "images": [
+                {
+                    "date": "2017-07-19",
+                    "copyright": "President and Fellows of Harvard College",
+                    "imageid": 477550,
+                    "idsid": 433893080,
+                    "format": "image/jpeg",
+                    "description": null,
+                    "technique": "Make:Hasselblad;Model:Hasselblad H5D-50c MS;Orientation:1;Software:Adobe Photoshop CS6 (Macintosh);",
+                    "renditionnumber": "764244",
+                    "displayorder": 1,
+                    "baseimageurl": "https://nrs.harvard.edu/urn-3:HUAM:764244",
+                    "alttext": null,
+                    "width": 2219,
+                    "publiccaption": null,
+                    "iiifbaseuri": "https://ids.lib.harvard.edu/ids/iiif/433893080",
+                    "height": 2550
+                }
+            ],
+            "worktypes": [
+                {
+                    "worktypeid": "287",
+                    "worktype": "print"
+                }
+            ],
+            "imagecount": 1,
+            "totalpageviews": 8,
+            "accessionyear": 2016,
+            "standardreferencenumber": "Fenaille 40; IFF vol. VI, cat. no. 36, p. 178",
+            "signed": null,
+            "classification": "Prints",
+            "relatedcount": 3,
+            "verificationlevel": 3,
+            "primaryimageurl": "https://nrs.harvard.edu/urn-3:HUAM:764244",
+            "titlescount": 3,
+            "peoplecount": 1,
+            "style": null,
+            "lastupdate": "2021-05-28T04:40:57-0400",
+            "commentary": null,
+            "periodid": null,
+            "technique": "Aquatint",
+            "edition": null,
+            "description": null,
+            "medium": null,
+            "lendingpermissionlevel": 0,
+            "title": "Liberty",
+            "accessionmethod": "Purchase",
+            "colors": [
+                {
+                    "color": "#7d7d7d",
+                    "spectrum": "#8362aa",
+                    "hue": "Grey",
+                    "percent": 0.3584102564102564,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#64644b",
+                    "spectrum": "#59ba4a",
+                    "hue": "Green",
+                    "percent": 0.2387179487179487,
+                    "css3": "#696969"
+                },
+                {
+                    "color": "#323232",
+                    "spectrum": "#2eb45d",
+                    "hue": "Grey",
+                    "percent": 0.1998974358974359,
+                    "css3": "#2f4f4f"
+                },
+                {
+                    "color": "#96967d",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.12723076923076923,
+                    "css3": "#808080"
+                },
+                {
+                    "color": "#96afaf",
+                    "spectrum": "#7b65ad",
+                    "hue": "Blue",
+                    "percent": 0.034512820512820515,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#afaf96",
+                    "spectrum": "#8e5ea7",
+                    "hue": "Green",
+                    "percent": 0.028564102564102564,
+                    "css3": "#a9a9a9"
+                },
+                {
+                    "color": "#c8c8af",
+                    "spectrum": "#b55592",
+                    "hue": "Green",
+                    "percent": 0.012666666666666666,
+                    "css3": "#c0c0c0"
+                }
+            ],
+            "provenance": "Private Collection, France, sold; to [SAS Martinez D. Estampes Anciennes & Modernes, Paris], sold; to Harvard Art Museums, 2016",
+            "groupcount": 0,
+            "dated": "June-July 1794",
+            "department": "Department of Prints",
+            "dateend": 1794,
+            "people": [
+                {
+                    "role": "Artist",
+                    "birthplace": "Paris",
+                    "gender": "male",
+                    "displaydate": "1755 - 1832",
+                    "prefix": null,
+                    "culture": "French",
+                    "displayname": "Philibert-Louis Debucourt",
+                    "alphasort": "Debucourt, Philibert-Louis",
+                    "name": "Philibert-Louis Debucourt",
+                    "personid": 35011,
+                    "deathplace": "Paris",
+                    "displayorder": 1
+                }
+            ],
+            "url": "https://www.harvardartmuseums.org/collections/object/357008",
+            "dateoffirstpageview": "2017-12-26",
+            "century": "18th century",
+            "objectnumber": "2016.253.1",
+            "labeltext": null,
+            "datebegin": 1794,
+            "culture": "French",
+            "exhibitioncount": 0,
+            "imagepermissionlevel": 0,
+            "mediacount": 0,
+            "objectid": 357008,
+            "techniqueid": 783,
+            "dimensions": "image: 19.5 × 23.5 cm (7 11/16 × 9 1/4 in.)\r\nmount: 27 × 23.5 cm (10 5/8 × 9 1/4 in.)",
+            "seeAlso": [
+                {
+                    "id": "https://iiif.harvardartmuseums.org/manifests/object/357008",
+                    "type": "IIIF Manifest",
+                    "format": "application/json",
+                    "profile": "http://iiif.io/api/presentation/2/context.json"
+                }
+            ]
+        }
+    ]
+}

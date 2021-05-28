@@ -1,0 +1,15 @@
+fullUrl='https://api.harvardartmuseums.org/object?apikey=4d8e7511-c083-423a-b0f1-24e2215c1e40'
+
+Example: 
+https://api.harvardartmuseums.org/object?q=title:British&apikey=4d8e7511-c083-423a-b0f1-24e2215c1e40
+
+Using $ in a ` ` for inserting variables
+`https://api.harvardartmuseums.org/image?apikey=${key}&q=caption:${currentQueryValue}&page=${currentPage}`
+
+
+
+
+// Find all of the objects that have the art imput from form in the title
+//https://api.harvardartmuseums.org/object?q=title:British&apikey=4d8e7511-c083-423a-b0f1-24e2215c1e40
+
+// https://api.harvardartmuseums.org/object?apikey=4d8e7511-c083-423a-b0f1-24e2215c1e40&q=title:frogs&hasimage=1

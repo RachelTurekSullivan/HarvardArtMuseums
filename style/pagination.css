@@ -1,0 +1,49 @@
+/* PAGINATION */
+
+.pagination {
+    display: none;
+  }
+
+  .pagination.show{
+    max-width: 400px;
+    min-width: 300px;
+    width: 100%;
+    display: block;
+    margin: 10px auto;
+    position: relative;
+    background-color: #eaecf1;
+    padding: 20px;
+    border-radius: 5px;
+  }
+ 
+  .pageButton {
+      border: 1px solid black;
+      padding: 5px;
+  }
+  .clickPageNumber {
+      background-color: lightgrey;
+      padding: 5px;
+      margin-left: 2px;
+      margin-right: 2px;
+  }
+  .pagination-block {
+    text-align: center;
+    width: 100%;
+  }
+  .pagination-block span {
+    display: inline-block;
+  }
+  .pagination-block .pageButton {
+    background-color: grey;
+    color: white;
+  }
+  .pagination-block span:hover {
+    cursor: pointer;
+  }
+  .opacity {
+    opacity: 0.5;
+  }
+  .outline-none {
+    outline: none;
+    user-select: none; 
+  }
