@@ -88,6 +88,7 @@ function checkImageUrl(record){
     return imageurl;
 }
 
+//this funciton shortens the title if it's too long to fit on the card
 function truncate(string){
     if(string.length > 30){
         string=string.substring(0, 30);

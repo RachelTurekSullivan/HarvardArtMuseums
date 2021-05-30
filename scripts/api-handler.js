@@ -24,6 +24,13 @@ function resetPaginationInfo() {
     paginationInfo.totalResults=0;
 }
 
+//this function clears the pagination info and query from previous input
+function resetThePage(){
+    resetPaginationInfo();
+    artList.innerHTML = "";
+    
+}
+
 function isValid(formInput){
     var pattern = new RegExp(/[~`!#$%\^&*+=\-\[\]\\';,/{}|\\":<>\?]/); //unacceptable chars
     if (pattern.test(formInput)) {
@@ -99,14 +106,9 @@ function apiCall(query, pageNum){
 }
 
 //this function is called when the user entes a word in the text box form
-//need to add input checking to make sure it's not gonna mess up query stuff
-//https://stackoverflow.com/questions/11896599/javascript-code-to-check-special-characters/23344557
 
 function fetchThatArt(event) {
-    resetPaginationInfo();
-    // moreArtButton.classList.add('show');
-    
-    artList.innerHTML = "";
+    resetThePage();
     var query = ""
  
     if (isValid(artInput.value)){
@@ -125,11 +127,17 @@ function changePage(event){
             paginationInfo.currentPage += 1;
             apiCall(paginationInfo.lastQuery, paginationInfo.currentPage);
         }
+        else{
+            alert("You've seen it all - now search for some new art!");
+        }
     }
     if(event.target.classList.contains('prev')){
         if(paginationInfo.currentPage>1){
             paginationInfo.currentPage -=1;
             apiCall(paginationInfo.lastQuery, paginationInfo.currentPage);
+        }
+        else{
+            alert("You're on the first page.  Click 'next' to see more results.");
         }
     }
     

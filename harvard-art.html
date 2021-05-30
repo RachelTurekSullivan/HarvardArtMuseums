@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
     <head>
         <meta charset="utf-8">
@@ -22,7 +23,7 @@
                             onsubmit="fetchThatArt(event)" />
                         </form>
                         <h3 id='query-result-summary'>
-                            <!-- __range__ of __totalresults__ results matching "__query__" -->
+                            <!-- ____ results matching "__query__" -->
                         </h3>
                  </div>
 
@@ -30,24 +31,16 @@
                 <div  class='col col-centered'>
                    
                     <div id='art-list' class='row selectable'>
-                        
-                        <!-- list of pics here -->
+                        <!-- Artwork cards go here -->
                     </div>
-                    <!-- <div>
-                        <form id='get-more-art' >
-                            <input id="get-more-button" 
-                            type="submit" 
-                            name="get-more"
-                            class = "button"
-                            value ="GET ME MORE ART"
-                            onsubmit="getMoreArt(event)" />
-                        </form>
-                    </div> -->
+                   
                     <div class="pagination" id="pagination">
                         <div class="tableList" id="listingTable"></div>
                         <div class="pagination-block">
                             <span class="pageButton outline-none prev" id="button_prev">Prev</span>
-                            <span id="page_number" class="outline-none"></span>
+                            <!-- <span id="page_number" class="outline-none"></span> 
+                                May add this later?
+                            -->
                             <span class="pageButton outline-none next" id="button_next">Next</span>
                         </div>
                     </div>
