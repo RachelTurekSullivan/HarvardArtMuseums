@@ -1,0 +1,13 @@
+.pagination-block span {
+    display: inline-block;
+  }
+  
+  .pagination-block span:hover {
+    cursor: pointer;
+  }
+  .clickPageNumber {
+    background-color: lightgrey;
+    padding: 5px;
+    margin-left: 2px;
+    margin-right: 2px;
+}

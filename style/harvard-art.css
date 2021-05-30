@@ -42,16 +42,22 @@ p{
 
 
 .header{
-    background-color: #eaecf1;
-    color:rgb(25, 24, 27);
+    background-color: #a51c30;
+    color: #eaecf1;
     font-family: Arial, Helvetica, sans-serif;
-    display:block;
-    justify-content: space-between;
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
     padding: 2vw 4vw;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
-
+svg {
+    height: 85px;
+    width:auto;
+    margin-right: 20px;
+    
+}
 
 .display-2{
     font-size:3rem;
