@@ -13,3 +13,7 @@ Using $ in a ` ` for inserting variables
 //https://api.harvardartmuseums.org/object?q=title:British&apikey=4d8e7511-c083-423a-b0f1-24e2215c1e40
 
 // https://api.harvardartmuseums.org/object?apikey=4d8e7511-c083-423a-b0f1-24e2215c1e40&q=title:frogs&hasimage=1
+
+// https://api.harvardartmuseums.org/object?size=20&page=5&apikey=$4d8e7511-c083-423a-b0f1-24e2215c1e40&q=title:lighthouse&hasimage=1&person=any
+
+https://api.harvardartmuseums.org/object?q=title:frog&apikey=4d8e7511-c083-423a-b0f1-24e2215c1e40&hasimage=1&person=any

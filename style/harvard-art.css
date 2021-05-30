@@ -5,12 +5,14 @@ body{
     width:100%;
     margin:0px;
     font-family: Arial, Helvetica, sans-serif;
+    background-color: #f7f8fa;
 }
 .container{
     width:100%;
     display:flex;
     flex-direction: column;
     margin:0px;
+
 }
 
 p{
@@ -38,6 +40,7 @@ p{
     width:100%;
 }
 
+
 .header{
     background-color: #eaecf1;
     color:rgb(25, 24, 27);
@@ -48,15 +51,46 @@ p{
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
 }
 
+
+
 .display-2{
     font-size:3rem;
     font-weight: lighter;
 }
 
-#query-container{
-    padding: 2vw 4vw;
+#query-form {
+    margin-bottom: 0px;
+}
+#query-form input{
+    width: 300px;
+    height:40px;
+    font-size: large;
 }
 
+#art-input{
+    border-radius: 5px;
+    border:none;
+    background-color: #eaecf1;
+    padding:5px;
+    box-shadow: inset 0 2px 4px 0 rgba(0,0,0,0.1);
+}
+
+#query-container{
+    padding: 2vw 4vw 0vw;
+}
+
+.query-row{
+    margin-bottom:20px;
+    align-items: center;
+}
+
+#query-result-summary{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-left: 10px;
+}
 .small-font{
     font-size: small;
 }
@@ -64,24 +98,40 @@ p{
 #art-list{
     justify-content:space-between;
     align-items: stretch;
+    margin-bottom: 20px;
 }
 
 #art-container{
-    padding: 2vw 4vw;
+    padding: 0px 4vw;
+    
+}
+#get-more-art{
+    display:none;
+}
+
+#get-more-art.show{
+    display:flex;
 }
 
 .button{
     width:300px;
     height:50px;
-    margin:10px;
     justify-content: center;
     align-items: center;
     text-align: center;
     background-color:grey;
+    border:none;
     border-radius:5px;
     color:white;
     font-family: Arial, Helvetica, sans-serif;
     font-size: large;
+    transition: 0.3s;
+    box-shadow: 0 4px 6px 0 rgba(0,0,0,0.2);
+}
+
+.button:hover{
+    box-shadow: 2px 6px 8px 2px rgba(0,0,0,0.25);
+  
 }
 
 .hide{

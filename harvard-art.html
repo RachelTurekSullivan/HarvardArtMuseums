@@ -8,67 +8,48 @@
     <body>
         <div class='container'>
             <div class='row header'>               
-                    <h2 class='display-2'>Havard Art Museum Image Search</h2>                
+                    <h1 class='display-2'>Havard Art Museum Image Search</h1>                
             </div>
             <div id="query-container" class="row no-wrap">
                 <div class="col">
-                    <h2>Please enter something to search for and hit enter</h2>
-                    <form id='form' >
-                        <input id="art-input" 
-                        type="text" 
-                        name="art-input"
-                        placeholder="Type art here..." 
-                        onsubmit="fetchThatArt(event)" />
-                    </form>
-                </div>
-            </div>
-
+                    <h2>Type your query and hit enter to search the Harvard art archives</h2>
+                    <div class='row query-row'>
+                        <form id='query-form' >
+                            <input id="art-input" 
+                            type="text" 
+                            name="art-input"
+                            placeholder="Show me something amazing..." 
+                            onsubmit="fetchThatArt(event)" />
+                        </form>
+                        <h3 id='query-result-summary'>
+                            <!-- __range__ of __totalresults__ results matching "__query__" -->
+                        </h3>
+                 </div>
 
             <div id='art-container' class="row no-wrap">
                 <div  class='col col-centered'>
-                    <!-- <div class="row selectable">
-                        
-                        <div class="col card">
-                            <div class="card-img row no-wrap">
-                                <img src="https://nrs.harvard.edu/urn-3:HUAM:DDC106547_dynmc"
-                                 style="display: inline-block;">
-                            </div>
-                                <div class="col card-info container">
-                                    <div>A Fox</div>
-                                    <div>17th century</div>
-                                    <div>Stefano Della Bella</div>
-                                    <div>
-                                        <a title="link" 
-                                        href="https://www.harvardartmuseums.org/collections/object/235192">
-                                            Learn More about A Fox
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                    </div> -->
-
-                    <div class="pagination" id="pagination">
-                        <div class="tableList" id="listingTable"></div>
-                        <div class="pagination-block">
-                            <span class="pageButton outline-none" id="button_prev">Prev</span>
-                            <span id="page_number" class="outline-none"></span>
-                            <span class="pageButton outline-none" id="button_next">Next</span>
-                        </div>
-                    </div>
-
+                   
                     <div id='art-list' class='row selectable'>
                         
                         <!-- list of pics here -->
                     </div>
-                    <div>
-                        <form id='get-more-art-form' >
+                    <!-- <div>
+                        <form id='get-more-art' >
                             <input id="get-more-button" 
                             type="submit" 
                             name="get-more"
                             class = "button"
                             value ="GET ME MORE ART"
-                            onsubmit="fetch100(event)" />
+                            onsubmit="getMoreArt(event)" />
                         </form>
+                    </div> -->
+                    <div class="pagination" id="pagination">
+                        <div class="tableList" id="listingTable"></div>
+                        <div class="pagination-block">
+                            <span class="pageButton outline-none prev" id="button_prev">Prev</span>
+                            <span id="page_number" class="outline-none"></span>
+                            <span class="pageButton outline-none next" id="button_next">Next</span>
+                        </div>
                     </div>
                 </div>
                 
@@ -76,9 +57,8 @@
             </div>
          </div>
 
-        <script src='pagination.js'></script>
-        <script src="harvard-art.js"></script>
+        <script src="./scripts/createArtCards.js"></script>
+        <script src="./scripts/api-handler.js"></script>
       
-        
     </body>
 </html>
