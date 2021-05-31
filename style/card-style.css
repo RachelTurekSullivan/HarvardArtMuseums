@@ -10,12 +10,14 @@
     height:20vw;
     min-height:250px;
     min-width:200px;
+    border-width: 10px;
     border-radius: 5px;
     margin: 10px 10px 10px 0px;
     padding: 25px 15px;
     align-items: left;
     justify-content: space-evenly;
-    background-color: #eaecf1;
+    /* background-color: #eaecf1; */
+    background-color: rgba(165, 28, 48, .05);   
     transition: 0.3s;
     box-shadow: 0 4px 6px 0 rgba(0,0,0,0.2);
     display: inline-block;
