@@ -3,6 +3,7 @@ const moreArtButton = document.getElementById('get-more-art');
 const paginationBlock = document.querySelector('.pagination-block');
 const resultSummary = document.getElementById('query-result-summary');
 const paginationSection = document.getElementById('pagination');
+const pageNumbers = document.getElementById('page_numbers');
 
 
 paginationBlock.addEventListener('click', changePage);
@@ -61,7 +62,35 @@ function togglePaginationBlock() {
     if(paginationInfo.totalPages>1 && paginationSection.classList.contains('show')==false){
         pagination.classList.add('show');
     }
-}
+} 
+
+// function setVisiblePageNumbers(){
+//     var visiblePageNums = 1;
+//     var firstPageNum = 1;
+    
+//     if (paginationInfo.currentPage<=5){
+//         firstPageNum = 1;
+//     }
+//     else if(paginationInfo>=4){
+//         firstPageNum = paginationInfo.currentPage - 2;
+//     }
+//     if(paginationInfo.currentPage = paginationInfo.totalPages-2)
+//     {
+//         firstPageNum = paginationInfo.totalPages - 4;
+//     }
+
+//     var pageNum= firstPageNum;
+//     while(visiblePageNums<=5 && pageNum <= paginationInfo.totalPages){
+//         var div = document.createElement("div");
+//         node = document.createTextNode(pageNum);
+//         div.appendChild(node);
+//         div.classList.add("page-num");
+//         pageNumbers.appendChild(node);
+//         pageNum++;
+//         visiblePageNums++;
+//     }
+    
+// }
 
 //this function queries the Harvard API given a query and a page number
 function apiCall(query, pageNum){
@@ -102,6 +131,7 @@ function apiCall(query, pageNum){
         populateResultSummary();
         populateArtList(artRecords);
         togglePaginationBlock();
+        // setVisiblePageNumbers();
     });
 }
 
@@ -140,15 +170,11 @@ function changePage(event){
             alert("You're on the first page.  Click 'next' to see more results.");
         }
     }
+    if (event.target.classlist.contains('page-num')){
+        paginationInfo.currentPage = event.value;
+        apiCall(paginationinfo.lastQuery, paginationinfo.currentPage);
+    }
     
 }
 
 
-//this function gets art when the page loads
-// function onLoad() {
-//     fetchThatArt(null);
-// }
-
-//this calls the onLoad function so that the page loads
-//by default, it searches for lighthouses
-// onLoad();

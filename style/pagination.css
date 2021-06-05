@@ -24,6 +24,7 @@
   }
   
   .pagination-block {
+    justify-content: space-between;
     text-align: center;
     width: 100%;
   }
@@ -45,3 +46,21 @@
     outline: none;
     user-select: none; 
   }
+
+  .pagination-block span {
+    display: inline-block;
+  }
+  
+  .pagination-block span:hover {
+    cursor: pointer;
+  }
+
+  .clickPageNumber {
+    /* background-color: lightgrey; */
+    color:#a51c30;
+    padding: 5px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+  
